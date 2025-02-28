@@ -11,5 +11,5 @@
 
 ### 接口说明
 - **get_proxy**： 获得代理池中的所有代理。
-- **/get_proxy/best** 随机返回一个代理池分数最高的代理。
-- **/random？min_sc=0.3&max_sc=1&withsc=false** 随机返回一个分数处于min_sc与max_sc之间的代理，withsc控制是否返回分数。
+- **/get_proxy/best**： 随机返回一个代理池分数最高的代理。
+- **/random？min_sc=0.3&max_sc=1&withsc=false**： 随机返回一个分数处于min_sc与max_sc之间的代理，withsc控制是否返回分数。
